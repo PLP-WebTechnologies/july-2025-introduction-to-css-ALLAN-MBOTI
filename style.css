@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    color: #ccc;
+}
+
+.paragraph {
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #000;
+    height: 200px;
+}
+
+#intro {
+    color: #000;
+}
